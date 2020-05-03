@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAC,CACJ,MAAM,CAAE,cAAc,CACtB,eAAe,CAAE,QAAQ,CACzB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,YAAY,CAAE,KAAK,CACnB,KAAK,CAAE,IAAI,CACZ,AAED,AAAA,KAAK,CAAC,EAAE,AAAC,CACP,gBAAgB,CAAE,OAAO,CACzB,MAAM,CAAE,cAAc,CACtB,OAAO,CAAE,KAAK,CACf,AAED,AAAA,KAAK,CAAC,EAAE,CACR,KAAK,CAAC,EAAE,AAAC,CACP,OAAO,CAAE,MAAM,CACf,UAAU,CAAE,MAAM,CACnB",
+    "sources": [
+        "../../myrecipes-ssg/scss/md-table.scss"
+    ],
+    "names": [],
+    "file": "md-table.min.css"
+}
